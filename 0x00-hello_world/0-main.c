@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * entry point
+ * entry point 
  *
  * return always 0 (succes)
  */
 int main (void)
 {
-	printf("Hello World"/n);
+	printf("hello world");
 	return (0);
 }
